@@ -133,4 +133,4 @@ window.common = (function({ common = { init: [] }}) {
   });
 
   return common;
-}());
+}(window));
